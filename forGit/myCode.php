@@ -1,3 +1,3 @@
 <?php
  echo 'This is Sparta';
- echo 'Really';
+ echo 'Really OK';
