@@ -1,3 +1,2 @@
 <?php
- echo 'This is Sparta';
- echo '404';
+ echo 't2';
